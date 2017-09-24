@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 jjjj
 zzzzzzzzzz
-=======
 jjjjhhhhhhhhhhhh
->>>>>>> c8320111403f69e454650fc696c885e6591de135
